@@ -1,3 +1,16 @@
+.myStyle {
+  color: rgb(255, 145, 0);
+  font-weight: 900;
+}
+
+.post {
+  width: 600px;
+  padding: 30px;
+  margin: auto;
+  border: 1px solid grey;
+  font-size: x-large;
+}
+
 .App {
   text-align: center;
 }
